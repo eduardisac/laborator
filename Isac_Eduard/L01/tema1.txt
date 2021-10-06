@@ -1,0 +1,6 @@
+Spotify:
+
+Spotify este un serviciu care ofera muzica si podcast-uri. 
+Functiile de baza sunt gratuite, dar vin cu reclame sau melodii redate automat.
+Pentru a asculta muzica offline si fara reclame este necesara plata unui abonament.
+Utilizatorii pot crea, edita si partaja playlisturi.
